@@ -1,0 +1,16 @@
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\bin\Debug\net10.0\AIVES.BusinessLogic.deps.json
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\bin\Debug\net10.0\AIVES.BusinessLogic.dll
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\bin\Debug\net10.0\AIVES.BusinessLogic.pdb
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\bin\Debug\net10.0\AIVES.DataAccess.dll
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\bin\Debug\net10.0\AIVES.DataAccess.pdb
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.csproj.AssemblyReference.cache
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.AssemblyInfoInputs.cache
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.AssemblyInfo.cs
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.sourcelink.json
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.Bu.D484E83C.Up2Date
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.dll
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\refint\AIVES.BusinessLogic.dll
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\AIVES.BusinessLogic.pdb
+D:\AIVES_HE_THONG_THI_VAN_DAP\AIVES_He_thong_thi_van_dap_thong_minh\src\backend\AIVES.BusinessLogic\obj\Debug\net10.0\ref\AIVES.BusinessLogic.dll
